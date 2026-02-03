@@ -1,5 +1,0 @@
-{
-  "build_command": "go build -o main ./cmd/api",
-  "start_command": "./main",
-  "install_command": "go mod download"
-}
